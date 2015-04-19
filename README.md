@@ -8,6 +8,12 @@ Clone the repository:
 git clone https://github.com/shadowfacts/bouncer.git
 ```
 
+Use npm to install bouncy:
+
+```
+npm install
+```
+
 Create a `bouncer.json` file and add add whatever host/bounce pairs you want:
 
 ```
