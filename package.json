@@ -1,0 +1,9 @@
+{
+  "name": "shadow-bouncer",
+  "description": "A simple reverse-proxy using bouncy.",
+  "private": true,
+  "author": "shadowfacts",
+  "dependencies": {
+    "bouncy": "^3.2.2"
+  }
+}
